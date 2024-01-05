@@ -1,0 +1,51 @@
+{
+  "itemId" : "_JVdIoDK1Ee2Ti87TjCel3A",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_jGX58MiyEeycCOKvaGmIow",
+    "parameterList" : [ {
+      "id" : "_hmbjABwpEe2qEMdCNSngGA",
+      "name" : "resource_file_sf_sn_context_file"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_tudeMC4kEe2dttgogKEQZg",
+    "parameterList" : [ {
+      "id" : "_pn4_2ciqEeycCOKvaGmIow",
+      "name" : "SF_Password"
+    }, {
+      "id" : "_pn4_2siqEeycCOKvaGmIow",
+      "name" : "SF_URL"
+    }, {
+      "id" : "_pn4_2MiqEeycCOKvaGmIow",
+      "name" : "SF_UserID"
+    }, {
+      "id" : "_pn4_0MiqEeycCOKvaGmIow",
+      "name" : "DEV_SN_Account"
+    }, {
+      "id" : "_pn4_18iqEeycCOKvaGmIow",
+      "name" : "SN_Database"
+    }, {
+      "id" : "_pn4_0siqEeycCOKvaGmIow",
+      "name" : "PROD_SN_Account"
+    }, {
+      "id" : "_pn4_1MiqEeycCOKvaGmIow",
+      "name" : "SN_Schema"
+    }, {
+      "id" : "_pn4_0ciqEeycCOKvaGmIow",
+      "name" : "STG_SN_Account"
+    }, {
+      "id" : "_pn4_08iqEeycCOKvaGmIow",
+      "name" : "SN_Warehouse"
+    }, {
+      "id" : "_gp0OUGqMEe2oY-Ti90sGQg",
+      "name" : "SF_SecurityToken"
+    }, {
+      "id" : "_dKblUWpAEe6sFtzvOpsLXA",
+      "name" : "SN_Password"
+    }, {
+      "id" : "_dKblUGpAEe6sFtzvOpsLXA",
+      "name" : "SN_UserID"
+    } ]
+  } ]
+}

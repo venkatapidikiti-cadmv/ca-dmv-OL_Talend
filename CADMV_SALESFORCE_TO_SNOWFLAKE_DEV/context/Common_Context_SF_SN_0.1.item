@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Default" xmi:id="_pS1V0MiqEeycCOKvaGmIow">
+    <contextParameter comment="" name="DEV_SN_Account" prompt="DEV_SN_Account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_0MiqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="STG_SN_Account" prompt="STG_SN_Account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_0ciqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="PROD_SN_Account" prompt="PROD_SN_Account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_0siqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SN_Warehouse" prompt="SN_Warehouse?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_08iqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SN_Schema" prompt="SN_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_1MiqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SN_Database" prompt="SN_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_18iqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SF_UserID" prompt="SF_UserID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_2MiqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SF_Password" prompt="SF_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:uH8u/gj+rZcCjG9r65cR6Pknj2vqyPpgC0uEx3WaDLk1EhNZpZmsuw==" xmi:id="_pn4_2ciqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SF_URL" prompt="SF_URL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_2siqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SF_SecurityToken" prompt="SF_SecurityToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_gp0OUGqMEe2oY-Ti90sGQg"/>
+    <contextParameter comment="" name="SN_UserID" prompt="SN_UserID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_dKblUGpAEe6sFtzvOpsLXA"/>
+    <contextParameter comment="" name="SN_Password" prompt="SN_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_dKblUWpAEe6sFtzvOpsLXA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="true" name="DEV" xmi:id="_pS1V0ciqEeycCOKvaGmIow">
+    <contextParameter comment="" name="DEV_SN_Account" prompt="DEV_SN_Account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_28iqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="STG_SN_Account" prompt="STG_SN_Account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_3MiqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="PROD_SN_Account" prompt="PROD_SN_Account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_3ciqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SN_Warehouse" prompt="SN_Warehouse?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_3siqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SN_Schema" prompt="SN_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_38iqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SN_Database" prompt="SN_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_4siqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SF_UserID" prompt="SF_UserID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_48iqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SF_Password" prompt="SF_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_pn4_5MiqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SF_URL" prompt="SF_URL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_5ciqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SF_SecurityToken" prompt="SF_SecurityToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_gp0OUWqMEe2oY-Ti90sGQg"/>
+    <contextParameter comment="" name="SN_UserID" prompt="SN_UserID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_dKblUmpAEe6sFtzvOpsLXA"/>
+    <contextParameter comment="" name="SN_Password" prompt="SN_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_dKblU2pAEe6sFtzvOpsLXA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="true" name="QA" xmi:id="_pS1V0siqEeycCOKvaGmIow">
+    <contextParameter comment="" name="DEV_SN_Account" prompt="DEV_SN_Account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_5siqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="STG_SN_Account" prompt="STG_SN_Account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_58iqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="PROD_SN_Account" prompt="PROD_SN_Account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_6MiqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SN_Warehouse" prompt="SN_Warehouse?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_6ciqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SN_Schema" prompt="SN_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_6siqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SN_Database" prompt="SN_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_7ciqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SF_UserID" prompt="SF_UserID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_7siqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SF_Password" prompt="SF_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_pn4_78iqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SF_URL" prompt="SF_URL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_8MiqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SF_SecurityToken" prompt="SF_SecurityToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_gp0OUmqMEe2oY-Ti90sGQg"/>
+    <contextParameter comment="" name="SN_UserID" prompt="SN_UserID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_dKblVGpAEe6sFtzvOpsLXA"/>
+    <contextParameter comment="" name="SN_Password" prompt="SN_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_dKblVWpAEe6sFtzvOpsLXA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="true" name="PROD" xmi:id="_pS1V08iqEeycCOKvaGmIow">
+    <contextParameter comment="" name="DEV_SN_Account" prompt="DEV_SN_Account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_8ciqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="STG_SN_Account" prompt="STG_SN_Account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_8siqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="PROD_SN_Account" prompt="PROD_SN_Account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_88iqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SN_Warehouse" prompt="SN_Warehouse?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_9MiqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SN_Schema" prompt="SN_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_9ciqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SN_Database" prompt="SN_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_-MiqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SF_UserID" prompt="SF_UserID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_-ciqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SF_Password" prompt="SF_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_pn4_-siqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SF_URL" prompt="SF_URL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_pn4_-8iqEeycCOKvaGmIow"/>
+    <contextParameter comment="" name="SF_SecurityToken" prompt="SF_SecurityToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_gp01YGqMEe2oY-Ti90sGQg"/>
+    <contextParameter comment="" name="SN_UserID" prompt="SN_UserID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_dKblVmpAEe6sFtzvOpsLXA"/>
+    <contextParameter comment="" name="SN_Password" prompt="SN_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_dKblV2pAEe6sFtzvOpsLXA"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_221e44f8-1829-4ff3-ba91-4e3b13f97c99"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>vKytDfMytCEnvF6CC7cRhpGdlav1laYSpdjXWKWIR5zsgaPmaw7GcRz8AiPdgqyKxsbK+jGYNytK&#13;
+LR21JD3TRw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_1a69583a-1a5e-4ac9-ac5d-d871d5522ccb"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>on4uvwUnOqM9NhV0zM4OcT8WheKB0XZi5aqIA43E4K3ki1mgpJSUyprHEbiY+ua76blCaLV2E56U&#13;
+ene/hjQ8OQ==</DigestValue></Reference></SignedInfo><SignatureValue>oFt28MwTC3qs7rj4jhnIZEjL7ka2htPzgiYAJ/um/YCeSNvHdrDOGYICKs/HQplRRchNGuY2eXjX&#13;
+un0fmAhWNr48KKNtOtTnqjlJSnFhUT1Lg9DvyxNCIbX8/cwJPHG+ZhkaB8z43y27NnsRN9UecWAQ&#13;
+7HkQ7RKIk7tOYewYKrUO39i6ygvY7T102fEpP/1+RQX0HualzaUiiLTnVQtH/NrW1Zxh9H1rJYlY&#13;
+3H9K+rH2F4MJai+jDhAb1o6W4eu6+UTUjwF3UshOI3hk4SDw08w4yzEEk01dqe80ABZbZ7VzJFlG&#13;
+4d7zrmoOOK3DjJY2EH7+yIXxrJq2lGYcic2H5w==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_1a69583a-1a5e-4ac9-ac5d-d871d5522ccb" Target="#_221e44f8-1829-4ff3-ba91-4e3b13f97c99"><Timestamp>2024-01-05 03:11:48</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

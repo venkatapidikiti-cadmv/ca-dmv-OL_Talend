@@ -1,0 +1,171 @@
+{
+  "itemId" : "_ksxucOHJEeyAI4tfOgp-CQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_jGX58MiyEeycCOKvaGmIow",
+    "parameterList" : [ {
+      "id" : "_hmbjABwpEe2qEMdCNSngGA",
+      "name" : "resource_file_sf_sn_context_file"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_tudeMC4kEe2dttgogKEQZg",
+    "parameterList" : [ {
+      "id" : "_pn4_18iqEeycCOKvaGmIow",
+      "name" : "SN_Database"
+    }, {
+      "id" : "_pn4_2MiqEeycCOKvaGmIow",
+      "name" : "SF_UserID"
+    }, {
+      "id" : "_dKblUWpAEe6sFtzvOpsLXA",
+      "name" : "SN_Password"
+    }, {
+      "id" : "_dKblUGpAEe6sFtzvOpsLXA",
+      "name" : "SN_UserID"
+    }, {
+      "id" : "_pn4_2ciqEeycCOKvaGmIow",
+      "name" : "SF_Password"
+    }, {
+      "id" : "_pn4_1MiqEeycCOKvaGmIow",
+      "name" : "SN_Schema"
+    }, {
+      "id" : "_pn4_08iqEeycCOKvaGmIow",
+      "name" : "SN_Warehouse"
+    }, {
+      "id" : "_pn4_0MiqEeycCOKvaGmIow",
+      "name" : "DEV_SN_Account"
+    }, {
+      "id" : "_pn4_2siqEeycCOKvaGmIow",
+      "name" : "SF_URL"
+    }, {
+      "id" : "_pn4_0ciqEeycCOKvaGmIow",
+      "name" : "STG_SN_Account"
+    }, {
+      "id" : "_gp0OUGqMEe2oY-Ti90sGQg",
+      "name" : "SF_SecurityToken"
+    }, {
+      "id" : "_pn4_0siqEeycCOKvaGmIow",
+      "name" : "PROD_SN_Account"
+    } ]
+  }, {
+    "contextName" : "QA",
+    "repoId" : "_tudeMC4kEe2dttgogKEQZg",
+    "parameterList" : [ {
+      "id" : "_pn4_7ciqEeycCOKvaGmIow",
+      "name" : "SN_Database"
+    }, {
+      "id" : "_pn4_7siqEeycCOKvaGmIow",
+      "name" : "SF_UserID"
+    }, {
+      "id" : "_dKblVWpAEe6sFtzvOpsLXA",
+      "name" : "SN_Password"
+    }, {
+      "id" : "_dKblVGpAEe6sFtzvOpsLXA",
+      "name" : "SN_UserID"
+    }, {
+      "id" : "_pn4_78iqEeycCOKvaGmIow",
+      "name" : "SF_Password"
+    }, {
+      "id" : "_pn4_6siqEeycCOKvaGmIow",
+      "name" : "SN_Schema"
+    }, {
+      "id" : "_pn4_6ciqEeycCOKvaGmIow",
+      "name" : "SN_Warehouse"
+    }, {
+      "id" : "_pn4_5siqEeycCOKvaGmIow",
+      "name" : "DEV_SN_Account"
+    }, {
+      "id" : "_pn4_8MiqEeycCOKvaGmIow",
+      "name" : "SF_URL"
+    }, {
+      "id" : "_pn4_58iqEeycCOKvaGmIow",
+      "name" : "STG_SN_Account"
+    }, {
+      "id" : "_gp0OUmqMEe2oY-Ti90sGQg",
+      "name" : "SF_SecurityToken"
+    }, {
+      "id" : "_pn4_6MiqEeycCOKvaGmIow",
+      "name" : "PROD_SN_Account"
+    } ]
+  }, {
+    "contextName" : "PROD",
+    "repoId" : "_tudeMC4kEe2dttgogKEQZg",
+    "parameterList" : [ {
+      "id" : "_pn4_-MiqEeycCOKvaGmIow",
+      "name" : "SN_Database"
+    }, {
+      "id" : "_pn4_-ciqEeycCOKvaGmIow",
+      "name" : "SF_UserID"
+    }, {
+      "id" : "_dKblV2pAEe6sFtzvOpsLXA",
+      "name" : "SN_Password"
+    }, {
+      "id" : "_dKblVmpAEe6sFtzvOpsLXA",
+      "name" : "SN_UserID"
+    }, {
+      "id" : "_pn4_-siqEeycCOKvaGmIow",
+      "name" : "SF_Password"
+    }, {
+      "id" : "_pn4_9ciqEeycCOKvaGmIow",
+      "name" : "SN_Schema"
+    }, {
+      "id" : "_pn4_9MiqEeycCOKvaGmIow",
+      "name" : "SN_Warehouse"
+    }, {
+      "id" : "_pn4_8ciqEeycCOKvaGmIow",
+      "name" : "DEV_SN_Account"
+    }, {
+      "id" : "_pn4_-8iqEeycCOKvaGmIow",
+      "name" : "SF_URL"
+    }, {
+      "id" : "_pn4_8siqEeycCOKvaGmIow",
+      "name" : "STG_SN_Account"
+    }, {
+      "id" : "_gp01YGqMEe2oY-Ti90sGQg",
+      "name" : "SF_SecurityToken"
+    }, {
+      "id" : "_pn4_88iqEeycCOKvaGmIow",
+      "name" : "PROD_SN_Account"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_tudeMC4kEe2dttgogKEQZg",
+    "parameterList" : [ {
+      "id" : "_pn4_4siqEeycCOKvaGmIow",
+      "name" : "SN_Database"
+    }, {
+      "id" : "_pn4_48iqEeycCOKvaGmIow",
+      "name" : "SF_UserID"
+    }, {
+      "id" : "_dKblU2pAEe6sFtzvOpsLXA",
+      "name" : "SN_Password"
+    }, {
+      "id" : "_dKblUmpAEe6sFtzvOpsLXA",
+      "name" : "SN_UserID"
+    }, {
+      "id" : "_pn4_5MiqEeycCOKvaGmIow",
+      "name" : "SF_Password"
+    }, {
+      "id" : "_pn4_38iqEeycCOKvaGmIow",
+      "name" : "SN_Schema"
+    }, {
+      "id" : "_pn4_3siqEeycCOKvaGmIow",
+      "name" : "SN_Warehouse"
+    }, {
+      "id" : "_pn4_28iqEeycCOKvaGmIow",
+      "name" : "DEV_SN_Account"
+    }, {
+      "id" : "_pn4_5ciqEeycCOKvaGmIow",
+      "name" : "SF_URL"
+    }, {
+      "id" : "_pn4_3MiqEeycCOKvaGmIow",
+      "name" : "STG_SN_Account"
+    }, {
+      "id" : "_gp0OUWqMEe2oY-Ti90sGQg",
+      "name" : "SF_SecurityToken"
+    }, {
+      "id" : "_pn4_3ciqEeycCOKvaGmIow",
+      "name" : "PROD_SN_Account"
+    } ]
+  } ]
+}
