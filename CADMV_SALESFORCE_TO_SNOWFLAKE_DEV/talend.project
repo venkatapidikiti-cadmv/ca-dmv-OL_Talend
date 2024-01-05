@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_rc7nYat3Ee66YdiHkksvtA" label="CADMV_Salesforce_to_Snowflake_Dev" description="Project used for daily load of CADMV Salesforce to Snowflake load." language="java" technicalLabel="CADMV_SALESFORCE_TO_SNOWFLAKE_DEV" author="_rc7nYqt3Ee66YdiHkksvtA" productVersion="Talend Cloud Data Fabric-8.0.1.20231222_1430-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/venkatapidikiti-cadmv/ca-dmv-OL_Talend&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_reNZwKt3Ee66YdiHkksvtA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_rc7nYqt3Ee66YdiHkksvtA" login="mayank.tripathi@california_department_of_motor_vehicles" firstName="Mayank" lastName="Tripathi" type="DQ"/>
+  <TalendProperties:User xmi:id="_ucQfQKt3Ee66YdiHkksvtA" login="venkata.pidikiti@california_department_of_motor_vehicles" firstName="Venkata" lastName="Pidikiti" type="DQ"/>
+</xmi:XMI>
